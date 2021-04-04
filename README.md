@@ -1,6 +1,6 @@
 # Responsive Portfolio Clay Doe
 
-![Portafolio ](./images/portafolio.jpg)
+![Portafolio ](./assets/img/portafolio.jpg)
 
 Proyecto Portafolio
 
